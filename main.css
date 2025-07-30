@@ -1,0 +1,66 @@
+header {
+    background-color: black;
+    color: antiquewhite;
+    padding: 2%;
+    border-radius: 30px;
+    width: 40%;
+    margin-left: 30%;
+}
+
+#title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#subtitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+a:active {
+    color: blue;
+}
+
+a:visited {
+    color: aqua;
+}
+
+#link {
+    color: aqua;
+}
+
+body {
+    background: steelblue;
+}
+
+#main {
+    font-size: 2vw;
+}
+
+.subtitle {
+    margin-left: 40%;
+}
+
+textarea {
+    width: 80vw;
+}
+
+fieldset {
+    width: 80vw;
+    place-items: center;
+}
+
+legend {
+    text-align: center;
+}
+
+footer {
+    background-color: khaki;
+}
+
+#center {
+    place-items: center;
+    margin-top: 2%;
+}
